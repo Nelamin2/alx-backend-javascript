@@ -1,3 +1,10 @@
+/**
+ * Logs a message to the console.
+ * @param {string} message - The message to log.
+ * @returns {void}
+ */
+// Arrow function
+
 const http = require('http');
 
 const PORT = 1245;

@@ -1,3 +1,9 @@
+/**
+ * Logs a message to the console.
+ * @param {string} message - The message to log.
+ * @returns {void}
+ */
+
 const fs = require('fs');
 
 
